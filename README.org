@@ -1,0 +1,17 @@
+#+TITLE: GUR (Git User Repository)
+
+The GUR is a package manager.
+
+One better than managing packages on paper.
+
+** Roadmap
+
+- [ ] Package Management
+  - [ ] Fetching
+  - [ ] Programs
+    - [ ] Binaries
+    - [ ] Libraries
+    - [ ] C/C++ Header Files
+- [ ] C/C++ build system
+  - [ ] Tasks
+  - [ ] Compatiblity with package managment
